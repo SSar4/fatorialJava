@@ -17,10 +17,9 @@ Este é um programa simples em Java que permite calcular o fatorial de um númer
    ```bash
    javac CalculadoraFatorial.java
 
-Digite um número inteiro positivo (ou 'esc' para sair): 5
+Digite um número inteiro positivo: 5
 O fatorial de 5 é: 120
 
-Digite um número inteiro positivo (ou 'esc' para sair): 8
+Digite um número inteiro positivo: 8
 O fatorial de 8 é: 40320
 
-Digite um número inteiro positivo (ou 'esc' para sair): esc
