@@ -15,7 +15,7 @@ Copie a pasta do projeto para a pasta "htdocs" do XAMPP. A localização da past
 
 ### Inicie o servidor Apache no painel de controle do XAMPP.
 
-Abra um navegador da web e digite o seguinte URL na barra de endereços: "http://localhost/calcular_fatorial.php". Isso carregará o arquivo PHP no seu navegador.
+Abra um navegador da web e digite o seguinte URL na barra de endereços: "http://localhost/fatorial.php". Isso carregará o arquivo PHP no seu navegador.
 
 Insira um número inteiro positivo no campo de entrada e clique no botão "Calcular Fatorial".
 
